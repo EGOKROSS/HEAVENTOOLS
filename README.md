@@ -67,4 +67,4 @@ pip install -r requirements.txt
 Run it:
 
 bash
-python HEAVENTOOLS.pyy
+python HEAVENTOOLS.py
