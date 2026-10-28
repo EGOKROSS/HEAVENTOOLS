@@ -49,7 +49,7 @@ Open Termux and run the following commands:
 
 Update packages and install Git + Python:
 
-bash
+
 pkg update && pkg upgrade -y
 pkg install git python -y
 Clone the repository:
@@ -66,5 +66,5 @@ Install the required dependencies:
 pip install -r requirements.txt
 Run it:
 
-bash
+
 python HEAVENTOOLS.py
