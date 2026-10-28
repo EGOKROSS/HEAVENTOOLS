@@ -42,7 +42,7 @@ Install the required dependencies:
 pip3 install -r requirements.txt
 Run it:
 
-python3 heaventools.py
+python3 HEAVENTOOLS.py
 
 📱 INSTALLATION (Termux - Android)
 Open Termux and run the following commands:
@@ -67,4 +67,4 @@ pip install -r requirements.txt
 Run it:
 
 bash
-python heaventools.py
+python HEAVENTOOLS.pyy
